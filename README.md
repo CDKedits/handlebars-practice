@@ -1,2 +1,0 @@
-# handlebars-practice
-Practicing handlebars
